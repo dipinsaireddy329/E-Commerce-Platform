@@ -1,6 +1,6 @@
-# E-Commerce Platform - Production Setup Guide
+# E-Commerce Platform - Production Setup Guide 
 
-## Project Overview
+## Project Overview guide
 
 A billion-dollar-grade e-commerce platform combining the best features of Amazon, Flipkart, Myntra, and Apple Store. Built with modern tech stack emphasizing performance, scalability, and exceptional user experience.
 
